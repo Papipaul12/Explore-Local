@@ -1,0 +1,22 @@
+ {
+  "name": "ExploreLocal",
+  "short_name": "ExploreLocal",
+  "description": "Multi-Language Local Tourist Guide Application",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#36002d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
